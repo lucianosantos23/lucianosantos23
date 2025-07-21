@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 📦 [`meu_drone`](https://github.com/lucianosantos23/meu_drone): ROS2 package for drone control
+- 📦 [`meu_drone`](https://github.com/lucianosantos23/CapacitacaoROS2BlackBeeDrones): ROS2 package for drone control
 
 ---
 
