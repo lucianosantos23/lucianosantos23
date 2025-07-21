@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! I'm Luciano Santos
 
-<!--
-**lucianosantos23/lucianosantos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at UNIFEI (4th semester)  
+🛸 Member of the **Black Bee Drones** team, working in the software division developing autonomous drones  
+💻 Programming languages: Python, C/C++, Haskell  
+🌐 Markup/Styling: HTML, CSS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 📦 [`meu_drone`](https://github.com/lucianosantos23/meu_drone): ROS2 package for drone control
+
+---
+
+### 📫 Get in touch
+- Email: lucianoaraujodossantosfilho@gmail.com  
+- GitHub: [github.com/lucianosantos23](https://github.com/lucianosantos23)
