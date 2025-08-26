@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at UNIFEI (4th semester)  
 🐝 Member of the **Black Bee Drones** team, working in the software division developing autonomous drones  
-💻 Programming languages: Python, C/C++, Haskell  
+💻 Programming languages: Java, Python, C/C++, Haskell  
 🌐 Markup/Styling: HTML, CSS
 
 ---
