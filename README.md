@@ -19,7 +19,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/ROS2-339999?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-HDL-FF7F00?style=for-the-badge" />
 </div>
